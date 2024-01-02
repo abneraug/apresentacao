@@ -65,14 +65,6 @@ p {
   gap: 20px;
 }
 
-.saiba {
-  background: rgb(61, 168, 133);
-  color: #fff;
-  padding: 15px 30px;
-  border-radius: 4px;
-  text-transform: uppercase;
-}
-
 .subtitulo {
   font-size: 60px;
   text-transform: uppercase;
